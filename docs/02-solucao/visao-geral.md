@@ -1,6 +1,6 @@
 # Visão geral da solução
 
-O AcquaScan tem duas partes: **estações de monitoramento** instaladas nos rios e um **aplicativo** que transforma as medições em informação útil para o morador.
+O AquaScan tem duas partes: **estações de monitoramento** instaladas nos rios e um **aplicativo** que transforma as medições em informação útil para o morador.
 
 ![Mapa mental do aplicativo](mapa-mental.png)
 
@@ -34,7 +34,7 @@ Organizadas a partir do mapa mental. A coluna **Versão** separa o que entra no 
 4. Quando o estado do rio da sua região muda para **atenção** ou **crítico**, recebe uma notificação.
 5. Em uma emergência, abre **Pontos de apoio**, vê o mais próximo e toca em **Como chegar**.
 
-## O que o AcquaScan não faz
+## O que o AquaScan não faz
 
 Para manter a credibilidade com a banca e com os usuários:
 

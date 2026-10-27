@@ -1,8 +1,8 @@
-# AcquaScan · Supernova SEBRAE
+# AquaScan · Supernova SEBRAE
 
 > Monitoramento dos rios de Petrópolis com sensores de baixo custo e alertas no celular, rua a rua.
 
-Este repositório registra **todo o desenvolvimento do AcquaScan** para a apresentação no evento científico **Supernova, do SEBRAE**. Aqui ficam o problema que motivou o projeto, a solução proposta, o modelo de negócio, as decisões técnicas, as evidências de validação e o material do evento.
+Este repositório registra **todo o desenvolvimento do AquaScan** para a apresentação no evento científico **Supernova, do SEBRAE**. Aqui ficam o problema que motivou o projeto, a solução proposta, o modelo de negócio, as decisões técnicas, as evidências de validação e o material do evento.
 
 O código não fica aqui. Ele está nos repositórios técnicos listados em [Repositórios do projeto](#repositórios-do-projeto).
 
@@ -26,7 +26,7 @@ flowchart LR
     B --> C[ESP32]
     C -- Wi-Fi --> D[API Node.js]
     D --> E[(PostgreSQL + PostGIS)]
-    D --> F[App AcquaScan]
+    D --> F[App AquaScan]
     D -- push --> G[Notificação no celular]
 ```
 
@@ -54,9 +54,9 @@ O histórico de marcos está no [CHANGELOG.md](CHANGELOG.md) e o dia a dia da eq
 
 | Repositório | Conteúdo | Situação |
 |---|---|---|
-| **acquascan-supernova** (este) | Documentação, negócio, diário de bordo e evento | Ativo |
+| **aquascan-supernova** (este) | Documentação, negócio, diário de bordo e evento | Ativo |
 | [Monitoramento-Fluxo-de-Água-ESP32](https://github.com/Tidxlz/Monitoramento-Fluxo-de--gua-ESP32) | Firmware do ESP32, simulação no Wokwi, calibração | Ativo |
-| acquascan-app | API (Node.js), banco (PostgreSQL) e aplicativo (React Native) | A criar |
+| aquascan-app | API (Node.js), banco (PostgreSQL) e aplicativo (React Native) | A criar |
 
 A divisão em três repositórios está explicada na [decisão 003](docs/decisoes/003-estrutura-dos-repositorios.md).
 

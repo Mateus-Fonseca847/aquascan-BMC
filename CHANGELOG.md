@@ -1,6 +1,6 @@
 # Changelog
 
-Registro dos marcos do projeto AcquaScan. Este arquivo acompanha a **documentação e a preparação para a Supernova**; as mudanças de código ficam no CHANGELOG de cada repositório técnico.
+Registro dos marcos do projeto AquaScan. Este arquivo acompanha a **documentação e a preparação para a Supernova**; as mudanças de código ficam no CHANGELOG de cada repositório técnico.
 
 O formato segue o padrão [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). Mudanças ainda não incluídas em uma versão ficam na seção **Não lançado**.
 
@@ -28,3 +28,6 @@ O formato segue o padrão [Keep a Changelog](https://keepachangelog.com/pt-BR/1.
 - Diário de bordo com entradas de 30/09, 05/10 e 07/10/2026
 - Modelos para o pitch, banner, roteiro de demonstração e perguntas da banca
 - Proposta de identidade visual (azul e branco, mascote capivara)
+
+### Alterado
+- Nome do projeto padronizado como AquaScan em toda a documentação

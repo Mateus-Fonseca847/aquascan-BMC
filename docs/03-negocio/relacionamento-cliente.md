@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O AcquaScan tem dois tipos de cliente que pedem relações diferentes. O **órgão público** (Defesa Civil e Prefeitura) compra, renova e decide se o sistema continua; a **população** não paga, mas é a adesão dela que dá valor ao contrato. Este documento descreve o quarto bloco do Business Model Canvas, o **Relacionamento com Clientes**: que estratégias e ações o AcquaScan adota para manter uma boa relação com cada cliente e fidelizá-lo.
+O AquaScan tem dois tipos de cliente que pedem relações diferentes. O **órgão público** (Defesa Civil e Prefeitura) compra, renova e decide se o sistema continua; a **população** não paga, mas é a adesão dela que dá valor ao contrato. Este documento descreve o quarto bloco do Business Model Canvas, o **Relacionamento com Clientes**: que estratégias e ações o AquaScan adota para manter uma boa relação com cada cliente e fidelizá-lo.
 
 O texto trata só desse tema. Quem são os clientes está no bloco Segmento de Mercado; como chegamos a eles, no bloco Canais; preços e recorrência, em Fonte de Renda e Lucro; os custos das ações aqui listadas, em Estrutura de Custos.
 
@@ -27,7 +27,7 @@ O texto trata só desse tema. Quem são os clientes está no bloco Segmento de M
 | Pergunta | Resposta |
 |---|---|
 | Que tipo de relação cada cliente espera? | O órgão espera um parceiro presente, que instale, calibre, mantenha e preste contas (**hipótese**). O morador espera um aviso claro, no momento certo e sem ruído (**vivência**) |
-| Que relações já estabelecemos? | A instalação é conjunta: o órgão indica os pontos e fornece os pontos de apoio, e o AcquaScan instala e calibra. Com a população, a relação nasce no aplicativo, com modo visitante e cadastro opcional (**verificado** no repositório) |
+| Que relações já estabelecemos? | A instalação é conjunta: o órgão indica os pontos e fornece os pontos de apoio, e o AquaScan instala e calibra. Com a população, a relação nasce no aplicativo, com modo visitante e cadastro opcional (**verificado** no repositório) |
 | Quanto custam? | O relacionamento é feito sobretudo com tempo da equipe; os valores estão no bloco Estrutura de Custos |
 | Como se integram ao modelo? | A renovação anual do órgão é a receita recorrente; a adesão da população é o argumento de renovação; a divulgação do aplicativo é, na fase inicial, tarefa do órgão (Estrutura de Custos, seção 3.5) |
 
@@ -40,7 +40,7 @@ Objetivo: renovação anual e ampliação da rede. Como a assinatura dos anos se
 | Estratégia | Ação | Frequência | Resultado esperado |
 |---|---|---|---|
 | Implantação conjunta | Reunião técnica de início; o órgão escolhe os pontos, valida os limiares de atenção e crítico e entrega a lista de pontos de apoio; treinamento da equipe no painel | Início do contrato | O órgão se sente dono do sistema; limiares validados por quem decide |
-| Ponto de contato nomeado | Um integrante do AcquaScan como responsável pelo órgão, com canal direto (e-mail e mensageria institucional) | Contínuo | Problema resolvido sem burocracia |
+| Ponto de contato nomeado | Um integrante do AquaScan como responsável pelo órgão, com canal direto (e-mail e mensageria institucional) | Contínuo | Problema resolvido sem burocracia |
 | Prazo de resposta definido | Dia útil: resposta em até 1 dia útil. Chuva forte ou alerta crítico: plantão e resposta em até 2 horas (**hipótese**). O atendimento começa em regime de plantão e migra para suporte 24 horas (seção 6) | Contínuo | Expectativa clara e compromisso cumprível |
 | Relatório de desempenho | Estações ativas e leituras recebidas, alertas emitidos, manutenções feitas, usuários do aplicativo na cidade | Mensal, e a cada alerta crítico | Prova de valor usada na prestação de contas do órgão |
 | Revisão pós-evento | Reunião após cada evento relevante para comparar o aviso com o que ocorreu e ajustar limiares | Após evento | Melhora do alerta; participação do órgão na calibração |
@@ -50,9 +50,9 @@ Objetivo: renovação anual e ampliação da rede. Como a assinatura dos anos se
 | Preparação da renovação | Relatório anual de resultados e conversa de renovação 90 dias antes do vencimento, de acordo com o calendário orçamentário do município | Anual | Renovação sem lacuna entre contratos |
 
 **Pontos críticos:**
-- **Contrato contínuo.** Na Lei 14.133/2021, contratos de serviços contínuos podem ter vigência inicial de até 5 anos (art. 106, com confirmação de verba e vantajosidade a cada exercício) e prorrogação até 10 anos no total, se o edital previr (art. 107) (**verificado**, fonte secundária). Se a assinatura do AcquaScan for enquadrada como serviço contínuo e se isso valer para a contratação direta de menor valor, o risco de renovação anual cai. Nenhuma das duas condições está confirmada; ficam como consulta ao setor de compras de Petrópolis (hipótese RL5).
+- **Contrato contínuo.** Na Lei 14.133/2021, contratos de serviços contínuos podem ter vigência inicial de até 5 anos (art. 106, com confirmação de verba e vantajosidade a cada exercício) e prorrogação até 10 anos no total, se o edital previr (art. 107) (**verificado**, fonte secundária). Se a assinatura do AquaScan for enquadrada como serviço contínuo e se isso valer para a contratação direta de menor valor, o risco de renovação anual cai. Nenhuma das duas condições está confirmada; ficam como consulta ao setor de compras de Petrópolis (hipótese RL5).
 - **Custo de troca sem aprisionar.** O código é público, então a retenção vem do serviço: instalação calibrada, histórico de leituras do rio, pontos de apoio integrados, operação e garantia (Fonte de Renda e Lucro, seção 3.2).
-- **A divulgação do aplicativo é parte da relação.** Com o tráfego pago e a exposição da marca a cargo do órgão, a conversa de co-criação deve incluir o calendário de divulgação e o crédito "tecnologia AcquaScan" (Estrutura de Custos, seção 3.5).
+- **A divulgação do aplicativo é parte da relação.** Com o tráfego pago e a exposição da marca a cargo do órgão, a conversa de co-criação deve incluir o calendário de divulgação e o crédito "tecnologia AquaScan" (Estrutura de Custos, seção 3.5).
 - **Troca de gestão.** Uma mudança na Prefeitura ou na chefia da Defesa Civil pode desfazer a relação. A relação não pode depender de uma única pessoa do órgão: manter contato com a equipe técnica, a secretaria e a chefia.
 
 ---
@@ -75,7 +75,7 @@ Objetivo: o morador mantém o aplicativo e as notificações ligadas e confia no
 
 **Privacidade.** O aplicativo coleta apenas o necessário para enviar o alerta (nome, e-mail, cidade e, se o usuário permitir, o token de notificação) e conta com a **opção de exclusão da conta e dos dados pessoais**, que o usuário aciona sozinho, como assegura a LGPD (Lei 13.709/2018, art. 18). O aplicativo terá termos de uso e política de privacidade claros, e as notificações não carregam dado pessoal.
 
-**Sistema rigoroso contra alarme falso.** A confiança do morador depende de o alerta só tocar quando há risco real. O AcquaScan trata isso como requisito central, com camadas de proteção:
+**Sistema rigoroso contra alarme falso.** A confiança do morador depende de o alerta só tocar quando há risco real. O AquaScan trata isso como requisito central, com camadas de proteção:
 1. **Limiares validados com a Defesa Civil**, estação por estação, antes de entrar em operação.
 2. **Filtragem das leituras no sensor** antes do envio, para que um valor isolado e anormal não vire alerta (Recursos-Chave, seção 3).
 3. **Controle de oscilação:** o aviso não se repete quando o nível sobe e desce perto do limite.
@@ -94,14 +94,14 @@ Esse segmento só entra onde não há poder público comprando (Segmento de Merc
 |---|---|
 | Início | Reunião para entender o ativo e o risco; escolha conjunta do ponto; instalação e calibração da estação |
 | Acesso | Alertas e leituras da estação do ativo, com o estado do rio em cor, porcentagem e texto, e treinamento rápido dos responsáveis |
-| Contato | Um responsável do AcquaScan e canal direto, com os mesmos prazos de resposta do órgão público (seção 3) |
+| Contato | Um responsável do AquaScan e canal direto, com os mesmos prazos de resposta do órgão público (seção 3) |
 | Acompanhamento | Relatório periódico simples (leituras, alertas e manutenção) e vistoria semestral da estação |
 | Evento | Contato após cada alerta relevante, para conferir o que ocorreu e ajustar os limiares do ponto |
 | Renovação | Conversa de renovação antes do vencimento, apoiada no relatório do período |
 
 **O que não se promete:** relatório de vazão em rio aberto, que exige equipamento próprio (Fonte de Renda e Lucro, seção 3.3).
 
-**Integração com o poder público.** Se o município contratar o AcquaScan depois, a estação da empresa pode complementar a rede da Defesa Civil, e o relacionamento passa a ser conduzido em conjunto, sem duplicar o atendimento.
+**Integração com o poder público.** Se o município contratar o AquaScan depois, a estação da empresa pode complementar a rede da Defesa Civil, e o relacionamento passa a ser conduzido em conjunto, sem duplicar o atendimento.
 
 ---
 
@@ -157,7 +157,7 @@ Metas são propostas do grupo, a ajustar com o piloto.
 | RL2 | A renovação do órgão depende da adesão da população ao aplicativo | Perguntar ao órgão o que decide a renovação; medir usuários ativos no piloto | Adesão citada como critério e meta de usuários definida |
 | RL3 | O morador mantém as notificações ligadas se o aviso é raro e útil | Piloto de 90 dias, medindo notificações desligadas | Pelo menos 90% com notificação ligada após 90 dias (proposta) |
 | RL4 | Simulados e ações em escolas aumentam as instalações do aplicativo | Comparar bairros com e sem ação, no piloto | Diferença de instalações observada e custo por ação medido |
-| RL5 | A assinatura do AcquaScan é enquadrável como serviço contínuo e pode ter vigência plurianual ou prorrogação na contratação direta de menor valor | Consulta ao setor de compras e à procuradoria | Resposta formal |
+| RL5 | A assinatura do AquaScan é enquadrável como serviço contínuo e pode ter vigência plurianual ou prorrogação na contratação direta de menor valor | Consulta ao setor de compras e à procuradoria | Resposta formal |
 | RL6 | O regime de plantão cobre o período chuvoso sem falhas | Escala simulada para uma temporada de chuva | Escala cobre todo o período sem ruptura |
 | RL7 | O canal de retorno no aplicativo gera relatos úteis | Protótipo do botão no piloto | Pelo menos metade dos relatos acionáveis |
 | RL8 | A nota de satisfação do órgão é igual ou superior a 8 | Pergunta semestral durante o piloto | Média medida e igual ou superior a 8 (proposta) |
@@ -166,8 +166,8 @@ Metas são propostas do grupo, a ajustar com o piloto.
 
 ## Referências
 
-- Repositório acquascan-app (consultado em 16/10/2026): `docs/privacidade.md` (dados, notificações, exclusão e pendências), `docs/requisitos.md` (RF08, RNF01, RNF02, RNF05).
-- Blocos do BMC do AcquaScan: Segmento de Mercado, Fonte de Renda e Lucro (seções 3.2 e 3.3 e hipótese R5), Recursos-Chave (RC10), Estrutura de Custos (seções 3.2, 3.4, 3.5; hipóteses C4, C10 e C15).
+- Repositório aquascan-app (consultado em 16/10/2026): `docs/privacidade.md` (dados, notificações, exclusão e pendências), `docs/requisitos.md` (RF08, RNF01, RNF02, RNF05).
+- Blocos do BMC do AquaScan: Segmento de Mercado, Fonte de Renda e Lucro (seções 3.2 e 3.3 e hipótese R5), Recursos-Chave (RC10), Estrutura de Custos (seções 3.2, 3.4, 3.5; hipóteses C4, C10 e C15).
 - [Lei nº 13.709/2018 (LGPD), art. 18](https://www.planalto.gov.br/ccivil_03/leis/l13709.htm)
 - [Lei nº 14.133/2021, arts. 106 e 107 (contratos de serviços contínuos)](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm)
 - [Justen: prazo contratual de serviços e fornecimentos contínuos na Lei 14.133/2021](https://justen.com.br/artigo_pdf_2/prazo-contratual-para-servicos-e-fornecimentos-continuos-na-lei-14-133-2021/)

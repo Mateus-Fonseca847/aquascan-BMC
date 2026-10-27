@@ -1,6 +1,6 @@
 # Aplicativo
 
-> Resumo da stack e das telas. O código ficará no repositório **acquascan-app** (a criar). As justificativas de cada escolha estão na [decisão 001](../decisoes/001-stack-do-aplicativo.md).
+> Resumo da stack e das telas. O código ficará no repositório **aquascan-app** (a criar). As justificativas de cada escolha estão na [decisão 001](../decisoes/001-stack-do-aplicativo.md).
 
 ## Stack
 
@@ -30,7 +30,7 @@
 ## Estrutura planejada do repositório
 
 ```
-acquascan-app/
+aquascan-app/
 ├── apps/
 │   ├── mobile/          ← React Native + Expo
 │   └── api/             ← Node.js + Fastify + Prisma

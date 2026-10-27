@@ -2,9 +2,9 @@
 
 ## Introdução
 
-O AcquaScan é um sistema de monitoramento de rios que mede o nível da água com sensores de baixo custo, instalados em conjunto com o cliente, e comunica o risco de transbordamento em porcentagem, cor e texto, com tempo estimado, por meio de um aplicativo. Este documento descreve o bloco **Proposta de Valor** do Business Model Canvas: que valor o AcquaScan entrega a cada cliente, que necessidades atende e **o que o diferencia** das alternativas que o cliente já tem.
+O AquaScan é um sistema de monitoramento de rios que mede o nível da água com sensores de baixo custo, instalados em conjunto com o cliente, e comunica o risco de transbordamento em porcentagem, cor e texto, com tempo estimado, por meio de um aplicativo. Este documento descreve o bloco **Proposta de Valor** do Business Model Canvas: que valor o AquaScan entrega a cada cliente, que necessidades atende e **o que o diferencia** das alternativas que o cliente já tem.
 
-O texto parte da comparação com os concorrentes (bloco Concorrentes) para chegar aos diferenciais, e é honesto sobre onde o AcquaScan **não** leva vantagem. Quem são os clientes está em Segmento de Mercado; como o valor chega até eles, em Canais; como é mantido, em Relacionamento com Clientes.
+O texto parte da comparação com os concorrentes (bloco Concorrentes) para chegar aos diferenciais, e é honesto sobre onde o AquaScan **não** leva vantagem. Quem são os clientes está em Segmento de Mercado; como o valor chega até eles, em Canais; como é mantido, em Relacionamento com Clientes.
 
 **Legenda das evidências:** **Verificado** (fonte pública ou repositório do projeto, em Referências) · **Vivência** (observação dos integrantes, moradores de Petrópolis, RJ, que viveram enchentes) · **Hipótese** (a validar, ver seção 9). Funcionalidades **previstas** ou **em definição** não existem até serem implementadas e validadas.
 
@@ -12,7 +12,7 @@ O texto parte da comparação com os concorrentes (bloco Concorrentes) para cheg
 
 ## 1. Visão geral
 
-**A proposta em uma frase.** O AcquaScan ajuda a Defesa Civil, a Prefeitura e a população de áreas de risco a saber, em segundos e antes da cheia, quão perto do transbordamento está o rio da sua rua, por meio de sensores de baixo custo instalados em conjunto com o órgão e de um aplicativo que traduz cada leitura em porcentagem, cor e texto, com tempo estimado e o caminho até o ponto de apoio, **com custo de entrada reduzido, o conjunto mais amplo de medições por rio entre os concorrentes analisados, calibração feita com a Defesa Civil e um sistema rigoroso contra alarme falso**.
+**A proposta em uma frase.** O AquaScan ajuda a Defesa Civil, a Prefeitura e a população de áreas de risco a saber, em segundos e antes da cheia, quão perto do transbordamento está o rio da sua rua, por meio de sensores de baixo custo instalados em conjunto com o órgão e de um aplicativo que traduz cada leitura em porcentagem, cor e texto, com tempo estimado e o caminho até o ponto de apoio, **com custo de entrada reduzido, o conjunto mais amplo de medições por rio entre os concorrentes analisados, calibração feita com a Defesa Civil e um sistema rigoroso contra alarme falso**.
 
 | Segmento | Resultado que entregamos | Por meio de | Diferencial central |
 |---|---|---|---|
@@ -38,7 +38,7 @@ O texto parte da comparação com os concorrentes (bloco Concorrentes) para cheg
 
 ### 3.1 Defesa Civil e Prefeitura
 
-| Necessidade (dor ou ganho esperado) | Como o AcquaScan atende |
+| Necessidade (dor ou ganho esperado) | Como o AquaScan atende |
 |---|---|
 | Poucos pontos de medição por rio (**hipótese**) | Estações de baixo custo instaladas nos pontos que o órgão indica, ampliando a rede com orçamento reduzido |
 | Dado técnico que a população não usa | Estado do rio em porcentagem, cor e texto, com tempo estimado, entregue direto ao morador pelo aplicativo |
@@ -46,11 +46,11 @@ O texto parte da comparação com os concorrentes (bloco Concorrentes) para cheg
 | Evidência para prestar contas e planejar | Histórico com gráficos e eventos por rio, e o conjunto de medições (nível, tendência, tempo estimado, estatística, eventos, qualidade do dado e diagnóstico da estação); relatórios periódicos |
 | Divulgar pontos de apoio e rotas | Lista do órgão integrada ao mapa, com telefone, capacidade e rota até o local |
 | Contratar dentro de um limite de valor | Pacote de entrada pensado para caber na faixa de dispensa de licitação (Fonte de Renda e Lucro, seção 4) |
-| Não perder o controle da comunicação | O AcquaScan complementa os canais oficiais e nunca emite alerta em nome do órgão |
+| Não perder o controle da comunicação | O AquaScan complementa os canais oficiais e nunca emite alerta em nome do órgão |
 
 ### 3.2 População de áreas de risco
 
-| Necessidade | Como o AcquaScan atende |
+| Necessidade | Como o AquaScan atende |
 |---|---|
 | Saber se o rio perto de casa está perigoso agora | Mapa com os rios monitorados e o estado de cada um, atualizado a cada minuto |
 | Entender sem jargão | Porcentagem do transbordamento, cor, ícone e texto; fonte mínima de 16 px e contraste AA |
@@ -63,7 +63,7 @@ O texto parte da comparação com os concorrentes (bloco Concorrentes) para cheg
 
 ### 3.3 Empresas com ativo dependente de rio (hipótese)
 
-| Necessidade | Como o AcquaScan atende |
+| Necessidade | Como o AquaScan atende |
 |---|---|
 | Medição exata no ponto do ativo | Estação instalada no local, com alerta e leitura contínua |
 | Evidência do risco para decisão e seguro | Histórico e relatório periódico do ponto |
@@ -91,20 +91,20 @@ Os concorrentes foram analisados no bloco Concorrentes. Aqui eles são agrupados
 - **Plataformas globais** (Google FloodHub, Waze): alcance enorme e gratuito; dependem da cobertura do modelo ou do lançamento de alertas pela Defesa Civil.
 - **Substitutos** (previsão do tempo, notícias, rede de vizinhos): conhecidos, mas sem medição contínua do rio.
 
-| Critério | AcquaScan | Melhor alternativa | Leitura |
+| Critério | AquaScan | Melhor alternativa | Leitura |
 |---|---|---|---|
 | Medição do nível no rio do cliente | Sensor nos pontos escolhidos pelo órgão (em desenvolvimento) | Rede do INEA e da ANA; radar de Joinville | **Vantagem em cobertura local** |
 | **Conjunto de medições e métricas por rio** | Distância, nível em centímetros e em porcentagem, metros restantes, taxas de subida e descida em quatro janelas, aceleração, tempo estimado, índice de risco, estatística, eventos, qualidade do dado, diagnóstico da estação, vazão (onde houver equipamento) e clima | ANA (nível e vazão); INEA (nível e chuva); E-Noé (nível e previsão) | **Vantagem**: nenhum concorrente analisado comprova publicamente um conjunto equivalente |
 | Custo de entrada para o município | Cerca de R$ 3,2 mil de custo por estação instalada e preço pretendido de cerca de R$ 8 mil por estação no cenário de dispensa (premissas, a confirmar) | E-Noé, cerca de R$ 15 mil por conjunto; radar, cerca de R$ 138 mil; serviços públicos, gratuitos | **Vantagem sobre as soluções vendidas**, se o escopo for equivalente (hipótese PV1); os serviços gratuitos não medem cada rio |
 | Linguagem para o morador | Porcentagem do transbordamento, cor e texto | INEA com estágios; Defesa Civil em metros; ANA em gráficos | **Vantagem provável**, ainda não testada (hipótese PV2) |
-| Tempo estimado até o nível crítico | Por tendência (regressão), com margem de incerteza | E-Noé, por inteligência artificial; FloodHub, previsão de cheia | Paridade; o AcquaScan destaca a transparência da estimativa |
+| Tempo estimado até o nível crítico | Por tendência (regressão), com margem de incerteza | E-Noé, por inteligência artificial; FloodHub, previsão de cheia | Paridade; o AquaScan destaca a transparência da estimativa |
 | Histórico e gráficos | **Requisito básico do aplicativo**: histórico com gráficos de nível, taxa de subida e previsão contra valor real, ao lado do estado e do tempo estimado | ANA, com gráficos | **Paridade**, com a vantagem de reunir gráfico, risco, tempo e rota no mesmo aplicativo |
 | Pontos de apoio no mapa | Todos os pontos da Defesa Civil com telefone, capacidade e rota até o local; ocupação, quando o órgão a informar | Defesa Civil mantém a lista; recurso não confirmado nos demais | **Vantagem**: nenhum concorrente analisado comprova esse recurso |
 | Rota que evita as áreas com enchente | **Integrada** ao aplicativo: as áreas atingidas são bloqueadas no cálculo; indicativa, com margem de erro (detalhes técnicos em definição) | Waze, com área alagada informada pela Defesa Civil | **Vantagem**: o bloqueio parte do dado contínuo do rio, e não de lançamento manual |
 | Funciona sem internet | Mapa, pontos de apoio e rotas no aparelho, em desenvolvimento; últimos dados com data e hora | Não confirmado em nenhum concorrente | **Possível vantagem** |
 | Qualidade do dado e diagnóstico do sensor | Mostrados ao usuário e ao órgão | Não confirmado em nenhum concorrente | **Possível vantagem** |
 | Instalação, manutenção e plantão no contrato | Incluídos no serviço | Não confirmado nas soluções acadêmicas e públicas | **Possível vantagem** |
-| Alcance de massa | Aplicativo gratuito; depende da divulgação do órgão | SMS, sirene, cell broadcast, FloodHub e Waze | Complementar: o AcquaScan não substitui esses canais |
+| Alcance de massa | Aplicativo gratuito; depende da divulgação do órgão | SMS, sirene, cell broadcast, FloodHub e Waze | Complementar: o AquaScan não substitui esses canais |
 | Gratuito ao morador | Sim | Todos | Paridade |
 
 A ausência de um recurso na tabela significa **não confirmado** nos concorrentes, e não que não exista (bloco Concorrentes, seção 5).
@@ -132,7 +132,7 @@ Ordenados pela força de defesa: o que o concorrente teria mais dificuldade de c
 
 ### 6.1 O conjunto de medições e métricas
 
-O AcquaScan mede em campo uma grandeza, a distância até a água, e **calcula dela e dos dados externos um conjunto de métricas que os concorrentes analisados não comprovam oferecer juntas**. Cada métrica responde a uma pergunta de quem decide:
+O AquaScan mede em campo uma grandeza, a distância até a água, e **calcula dela e dos dados externos um conjunto de métricas que os concorrentes analisados não comprovam oferecer juntas**. Cada métrica responde a uma pergunta de quem decide:
 
 | Pergunta | Medição ou métrica |
 |---|---|
@@ -152,23 +152,23 @@ Os detalhes e a situação de cada métrica estão em Atividades-Chave, seção 
 
 ---
 
-## 7. Onde o AcquaScan não é diferente
+## 7. Onde o AquaScan não é diferente
 
 Para não prometer o que outros já fazem melhor:
-- **Previsão por inteligência artificial:** o E-Noé a oferece; o AcquaScan usa tendência simples, com poucos dados, e se apresenta como estimativa.
-- **Gráficos de histórico, por si só:** a ANA também os oferece. No AcquaScan são requisito básico e o diferencial é reuni-los, no mesmo aplicativo, com o estado, o tempo estimado, as rotas e os pontos de apoio.
-- **Alerta oficial e alcance de massa:** SMS, sirene e cell broadcast da Defesa Civil alcançam quem não usa aplicativo; o AcquaScan complementa esses canais e não os substitui.
+- **Previsão por inteligência artificial:** o E-Noé a oferece; o AquaScan usa tendência simples, com poucos dados, e se apresenta como estimativa.
+- **Gráficos de histórico, por si só:** a ANA também os oferece. No AquaScan são requisito básico e o diferencial é reuni-los, no mesmo aplicativo, com o estado, o tempo estimado, as rotas e os pontos de apoio.
+- **Alerta oficial e alcance de massa:** SMS, sirene e cell broadcast da Defesa Civil alcançam quem não usa aplicativo; o AquaScan complementa esses canais e não os substitui.
 - **Informação de nível por si só:** o nível do rio já é publicado por redes oficiais onde elas têm estação.
 
-O argumento do AcquaScan não é ser o único a medir o rio. É **medir onde a rede não mede, custar pouco, medir mais do que o nível e entregar o dado numa forma que o morador usa**, com rota, ponto de apoio e acesso sem internet.
+O argumento do AquaScan não é ser o único a medir o rio. É **medir onde a rede não mede, custar pouco, medir mais do que o nível e entregar o dado numa forma que o morador usa**, com rota, ponto de apoio e acesso sem internet.
 
-**Tempo de mercado.** O AcquaScan não tem o tempo de mercado das instituições e empresas já estabelecidas. É uma startup, e traz em troca agilidade, custo baixo e foco no problema local.
+**Tempo de mercado.** O AquaScan não tem o tempo de mercado das instituições e empresas já estabelecidas. É uma startup, e traz em troca agilidade, custo baixo e foco no problema local.
 
 ---
 
 ## 8. Promessas e limites
 
-| O AcquaScan promete | O AcquaScan não promete |
+| O AquaScan promete | O AquaScan não promete |
 |---|---|
 | Informação contínua do nível nos pontos instalados, com fonte e horário | Cobertura de todos os rios da cidade |
 | Estimativa de tempo, apresentada como estimativa | Previsão exata do momento do transbordamento |
@@ -184,7 +184,7 @@ O argumento do AcquaScan não é ser o único a medir o rio. É **medir onde a r
 
 | Código | Hipótese | Como testar | Critério |
 |---|---|---|---|
-| PV1 | O AcquaScan entrega estação instalada e serviço por preço inferior ao do E-Noé, em escopo equivalente | Levantar o escopo do conjunto do E-Noé e comparar com o pacote do AcquaScan; cotação dos itens de campo | Preço por estação inferior, com escopo equivalente (Concorrentes, H3) |
+| PV1 | O AquaScan entrega estação instalada e serviço por preço inferior ao do E-Noé, em escopo equivalente | Levantar o escopo do conjunto do E-Noé e comparar com o pacote do AquaScan; cotação dos itens de campo | Preço por estação inferior, com escopo equivalente (Concorrentes, H3) |
 | PV2 | O morador decide com mais rapidez e acerto com porcentagem, cor e texto do que com metros ou gráficos | Teste com 10 a 15 moradores comparando telas | Taxa de acerto maior que a das telas de comparação (Concorrentes, H2) |
 | PV3 | O tempo estimado é útil e conservador | Comparar previsão e valor real em eventos e simulações | Erro medido e ausência de estimativas otimistas demais (Concorrentes, H7) |
 | PV4 | A rede pública não cobre com detalhe os rios do piloto | Consultar o inventário do INEA e a cobertura do FloodHub | Lista de rios cobertos e frequência (Concorrentes, H1 e H8) |
@@ -192,7 +192,7 @@ O argumento do AcquaScan não é ser o único a medir o rio. É **medir onde a r
 | PV6 | O sistema contra alarme falso mantém a taxa de alertas sem consequência real dentro da meta | Piloto com registro de alertas e revisão com o órgão | Taxa abaixo da meta definida com a Defesa Civil |
 | PV7 | O sensor de baixo custo mantém precisão aceitável em campo | Comparar leituras com referência, em campo (Concorrentes, H6) | Erro de nível aceitável pelo órgão |
 | PV8 | Pontos de apoio e rotas aumentam o uso do aplicativo e o valor percebido pelo órgão | Medir uso das telas e entrevistar o órgão (Fonte de Renda e Lucro, R7) | Uso medido e valor declarado pelo órgão |
-| PV9 | O órgão aceita o AcquaScan como complemento e não vê conflito com os alertas oficiais | Entrevista e minuta de cláusula | Aceite e cláusula acordada |
+| PV9 | O órgão aceita o AquaScan como complemento e não vê conflito com os alertas oficiais | Entrevista e minuta de cláusula | Aceite e cláusula acordada |
 | PV10 | O órgão e os moradores usam e valorizam o conjunto de métricas além do estado do rio | Entrevista com o órgão e teste de uso com moradores, apresentando as telas | Métricas citadas como úteis e usadas na decisão |
 | PV11 | A rota que evita as áreas com enchente tem margem de erro aceitável | Testar rotas em cenários de cheia e validar com a Defesa Civil o mapeamento de áreas atingidas | Rotas que não passam por áreas atingidas nos cenários validados |
 | PV12 | O mapa, os pontos de apoio e as rotas funcionam sem internet | Teste em modo sem conexão, com dados já carregados | Funções disponíveis sem rede, com os últimos dados marcados com data e hora |
@@ -202,6 +202,6 @@ O argumento do AcquaScan não é ser o único a medir o rio. É **medir onde a r
 
 ## Referências
 
-- Blocos do BMC do AcquaScan: Concorrentes (seções 3, 5, 6 e 7, com as fontes de cada concorrente), Segmento de Mercado, Fonte de Renda e Lucro (seção 4 e hipótese R7), Estrutura de Custos (seções 3.1 e 4), Relacionamento com Clientes (seções 4 e 6), Atividades-Chave (seção 3.1).
-- Repositório acquascan-app (consultado em 16/10/2026): `README.md`, `docs/requisitos.md` (RF03 a RF11, RNF01, RNF02, RNF05) e `docs/privacidade.md`.
+- Blocos do BMC do AquaScan: Concorrentes (seções 3, 5, 6 e 7, com as fontes de cada concorrente), Segmento de Mercado, Fonte de Renda e Lucro (seção 4 e hipótese R7), Estrutura de Custos (seções 3.1 e 4), Relacionamento com Clientes (seções 4 e 6), Atividades-Chave (seção 3.1).
+- Repositório aquascan-app (consultado em 16/10/2026): `README.md`, `docs/requisitos.md` (RF03 a RF11, RNF01, RNF02, RNF05) e `docs/privacidade.md`.
 - Fontes públicas sobre os concorrentes (INEA, E-Noé, Ih, Alagou, Joinville, Cemaden, ANA, Google FloodHub, Waze): ver Referências do bloco Concorrentes.

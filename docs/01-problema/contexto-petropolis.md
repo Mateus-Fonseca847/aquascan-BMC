@@ -9,7 +9,7 @@
 
 1. Petrópolis possui áreas urbanizadas em vales e encostas, onde chuvas intensas podem provocar elevações rápidas do nível dos rios, inundações e deslizamentos. O Rio Quitandinha apresenta histórico relevante de transbordamentos em áreas urbanas [11][13].
 2. Em 15/02/2022, a cidade registrou aproximadamente 259,8 mm de chuva em 24 horas, com acumulados extremamente elevados em poucas horas. O balanço divulgado em 03/03/2022 registrou 233 mortes [2][6].
-3. Petrópolis dispõe de sirenes, pluviômetros, alertas e estações de monitoramento. O AcquaScan pretende investigar como integrar e apresentar informações hidrológicas e territoriais de maneira acessível, complementando os serviços oficiais [14][16][19][22].
+3. Petrópolis dispõe de sirenes, pluviômetros, alertas e estações de monitoramento. O AquaScan pretende investigar como integrar e apresentar informações hidrológicas e territoriais de maneira acessível, complementando os serviços oficiais [14][16][19][22].
 
 **Frase-âncora sugerida:** *"Petrópolis já possui sistemas de monitoramento e alerta. O desafio é investigar como transformar essas informações em dados acessíveis e úteis para quem precisa tomar decisões diante do risco de inundação."*
 
@@ -89,13 +89,13 @@ Petrópolis **não está desprotegida**. O município dispõe de estruturas de m
 
 A Defesa Civil orienta que moradores de áreas de risco procurem um local seguro assim que começar a chover forte, antes mesmo de a sirene tocar. A sirene é um aviso para uma situação que exige resposta imediata, e não deve ser tratada como garantia de que ainda haverá tempo para sair com segurança [22].
 
-A análise complementar está em [concorrentes.md](../03-negocio/concorrentes.md). O AcquaScan se posiciona como **complemento** às iniciativas existentes, não como substituto dos órgãos públicos ou dos sistemas oficiais de alerta.
+A análise complementar está em [concorrentes.md](../03-negocio/concorrentes.md). O AquaScan se posiciona como **complemento** às iniciativas existentes, não como substituto dos órgãos públicos ou dos sistemas oficiais de alerta.
 
 A oportunidade do projeto está em investigar se a integração e a apresentação de dados disponíveis podem facilitar a consulta por parte da população. Essa oportunidade ainda precisa ser demonstrada por meio de pesquisa com usuários e análise das fontes de dados.
 
 ---
 
-## 5. A lacuna que o AcquaScan quer preencher
+## 5. A lacuna que o AquaScan quer preencher
 
 As quatro hipóteses abaixo apresentam questões que merecem investigação, mas **ainda não foram validadas com moradores nem confirmadas integralmente com os órgãos responsáveis**. Portanto, não devem ser apresentadas no pitch como fatos comprovados antes da conclusão da [pesquisa com usuários](pesquisa-usuarios.md).
 
@@ -118,7 +118,7 @@ As quatro hipóteses abaixo apresentam questões que merecem investigação, mas
 ---
 
 ## 6. Pendências antes do pitch
-- [ ] Confirmar com o INEA a situação operacional das estações: o levantamento do Comitê Piabanha com data-base de dezembro de 2023 identifica estações pluviométricas e fluviométricas em Petrópolis. O status operacional atual, as variáveis disponibilizadas, a frequência efetiva de atualização e as condições de integração dos dados ainda precisam de confirmação oficial. O INEA disponibiliza consulta pública de dados hidrometeorológicos e um inventário de estações em operação. Verificar a versão vigente antes de definir a cobertura do AcquaScan [16][22].
+- [ ] Confirmar com o INEA a situação operacional das estações: o levantamento do Comitê Piabanha com data-base de dezembro de 2023 identifica estações pluviométricas e fluviométricas em Petrópolis. O status operacional atual, as variáveis disponibilizadas, a frequência efetiva de atualização e as condições de integração dos dados ainda precisam de confirmação oficial. O INEA disponibiliza consulta pública de dados hidrometeorológicos e um inventário de estações em operação. Verificar a versão vigente antes de definir a cobertura do AquaScan [16][22].
 - [ ] Confirmar com o INEA quais estações fluviométricas estão ativas atualmente, por rio, e quais dados podem ser consultados publicamente.(Mandei o email e estou aguardando uma resposta deles)
 - [ ] Confirmar com a Defesa Civil a relação atualizada de bairros e trechos associados a cada curso d'água, além dos locais afetados pelo evento do Rio Ariró em dezembro de 2025.
 - [ ] Obter e registrar o balanço oficial das vítimas da tragédia de fevereiro de 2022, identificando a instituição responsável e a data de referência.
@@ -128,7 +128,7 @@ As quatro hipóteses abaixo apresentam questões que merecem investigação, mas
 - [ ] Confirmar com as instituições responsáveis a quantidade, a distribuição e a situação operacional atual dos pluviômetros.
 - [ ] Verificar a versão vigente dos protocolos de alerta, os canais oficiais de comunicação e a relação atualizada dos pontos de apoio.
 - [ ] Executar a pesquisa com moradores e atualizar a seção 5 com resultados reais, sem apresentar hipóteses como conclusões.
-- [ ] Definir quais funcionalidades do AcquaScan podem ser implementadas com dados efetivamente disponíveis e quais dependem de integração, autorização ou validação técnica adicional.
+- [ ] Definir quais funcionalidades do AquaScan podem ser implementadas com dados efetivamente disponíveis e quais dependem de integração, autorização ou validação técnica adicional.
 - [ ] Definir critérios de atualização dos dados, identificação das fontes, comunicação de incerteza e tratamento de informações indisponíveis.
 - [ ] Atualizar [referencias.md](../../referencias.md) com todas as fontes utilizadas, corrigindo duplicidades e mantendo a correspondência entre os números citados no texto e a lista de referências.
 

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O AcquaScan depende de terceiros para três coisas: **ter autorização e dado para operar** (poder público), **ter peças e serviços para funcionar** (fornecedores) e **ter conhecimento técnico e financiamento para crescer** (pesquisa e fomento). Este documento descreve um dos blocos do Business Model Canvas, as **Parcerias-Chave**: quem são os parceiros e fornecedores, o que cada um entrega e o que o AcquaScan precisa para tê-los.
+O AquaScan depende de terceiros para três coisas: **ter autorização e dado para operar** (poder público), **ter peças e serviços para funcionar** (fornecedores) e **ter conhecimento técnico e financiamento para crescer** (pesquisa e fomento). Este documento descreve um dos blocos do Business Model Canvas, as **Parcerias-Chave**: quem são os parceiros e fornecedores, o que cada um entrega e o que o AquaScan precisa para tê-los.
 
 O texto trata só desse tema. As atividades e os recursos que dependem dos parceiros estão nos blocos Atividades-Chave e Recursos-Chave, e os custos de cada fornecimento, em Estrutura de Custos.
 
@@ -52,7 +52,7 @@ O texto trata só desse tema. As atividades e os recursos que dependem dos parce
 
 **Outras fontes públicas (acesso e termos a confirmar):**
 - **ANA, INEA e Serviço Geológico do Brasil:** séries históricas de nível e de chuva, e mapeamento de áreas de risco para calibrar os limiares;
-- **Cemaden e INMET:** dados de chuva e alertas, para contexto e para evitar duplicidade de aviso. A relação com o Cemaden pode ser de **complementaridade**, já que a rede dele mede chuva e o AcquaScan mede o nível do rio (hipótese).
+- **Cemaden e INMET:** dados de chuva e alertas, para contexto e para evitar duplicidade de aviso. A relação com o Cemaden pode ser de **complementaridade**, já que a rede dele mede chuva e o AquaScan mede o nível do rio (hipótese).
 
 ---
 
@@ -61,7 +61,7 @@ O texto trata só desse tema. As atividades e os recursos que dependem dos parce
 **Universidades e centros de pesquisa** entram como parceiros para validação, não para desenvolvimento do produto:
 - **LNCC**, com sede em Petrópolis (**verificado**), é o parceiro mais próximo para modelagem computacional. Instituições de ensino da cidade e de universidades federais do estado, como UFRJ e UFF, são candidatas para hidrologia, hidráulica e estágio (**hipótese**; contato ainda não feito).
 - **O que se busca:** validação hidrológica das cotas e dos limiares, revisão dos cálculos de nível, vazão e tendência, apoio de estudantes na instalação e na calibração, e acesso a laboratório para testes de bancada.
-- **Limite honesto:** a série de dados do AcquaScan ainda é curta. O relatório técnico do projeto não recomenda modelos estatísticos complexos nessa fase (Recursos-Chave, seção 4). Por isso a parceria acadêmica começa em **validação e calibração**, e não em aprendizado de máquina.
+- **Limite honesto:** a série de dados do AquaScan ainda é curta. O relatório técnico do projeto não recomenda modelos estatísticos complexos nessa fase (Recursos-Chave, seção 4). Por isso a parceria acadêmica começa em **validação e calibração**, e não em aprendizado de máquina.
 
 **Formalização:** acordo de cooperação técnica com cláusulas de propriedade intelectual, de uso dos dados e de crédito, definidas por advogado antes de qualquer compartilhamento.
 
@@ -105,7 +105,7 @@ A cadeia depende de poucos fornecedores, e três deles têm risco de indisponibi
 
 | Parceiro | Papel | Situação |
 |---|---|---|
-| SEBRAE e Supernova | Programa e evento em que o AcquaScan se apresenta; mentoria e contato com clientes e investidores | Em andamento (competição em 20/10/2026) |
+| SEBRAE e Supernova | Programa e evento em que o AquaScan se apresenta; mentoria e contato com clientes e investidores | Em andamento (competição em 20/10/2026) |
 | FAPERJ (estadual) e FINEP (federal) | Fomento à inovação por editais | Programas e editais abertos a **levantar**; a elegibilidade de cada edital precisa ser conferida |
 | Aceleradoras e fundos | Capital, mentoria e rede de clientes | **Hipótese**, para a fase de expansão |
 
@@ -134,15 +134,15 @@ Contratos de solução inovadora com o poder público (Marco Legal das Startups)
 | PC4 | A operadora tem cobertura IoT nos pontos candidatos e oferece plano adequado | Teste de campo e proposta comercial | Ao menos 95% dos envios entregues no teste (Estrutura de Custos, C4) |
 | PC5 | O uso comercial do Open-Meteo tem custo e condições definidos | Pedido de proposta ao fornecedor | Condições por escrito (Estrutura de Custos, C5) |
 | PC6 | ANA, INEA e Serviço Geológico do Brasil liberam séries e mapeamentos para uso no projeto | Solicitação formal de dados e consulta aos termos | Dados obtidos ou termos de uso confirmados |
-| PC7 | Há edital aberto da FAPERJ ou da FINEP compatível com o AcquaScan | Levantamento dos editais vigentes | Ao menos um edital elegível identificado |
+| PC7 | Há edital aberto da FAPERJ ou da FINEP compatível com o AquaScan | Levantamento dos editais vigentes | Ao menos um edital elegível identificado |
 | PC8 | Dois prestadores de campo aceitam atender por demanda, inclusive em chuva forte | Cotação e conversa com dois prestadores | Dois prestadores cadastrados com preço e disponibilidade (Estrutura de Custos, C17) |
 
 ---
 
 ## Referências
 
-- Repositório acquascan-bmc, arquivo `parceiros-chave.md` (versão anterior, consultada em 16/10/2026).
-- Blocos do BMC do AcquaScan: Recursos-Chave (seções 3.5, 4 e 5), Estrutura de Custos (seções 3.1 a 3.3 e 5; hipóteses C4, C5 e C17), Relacionamento com Clientes (seções 3 e 4), Concorrentes (Cemaden e INMET).
+- Repositório aquascan-bmc, arquivo `parceiros-chave.md` (versão anterior, consultada em 16/10/2026).
+- Blocos do BMC do AquaScan: Recursos-Chave (seções 3.5, 4 e 5), Estrutura de Custos (seções 3.1 a 3.3 e 5; hipóteses C4, C5 e C17), Relacionamento com Clientes (seções 3 e 4), Concorrentes (Cemaden e INMET).
 - [LNCC: folder institucional 2026 (sede em Petrópolis)](https://www.gov.br/lncc/pt-br/centrais-de-conteudo/divulgacao-cientifica/folder-institucional-2026-pt.pdf)
 - [Correio da Manhã: Comitê Piabanha e o licenciamento em Petrópolis (jul/2026)](https://www.correiodamanha.com.br/serrano/2026/07/299293-comite-piabanha-volta-a-pedir-suspensao-do-licenciamento-de-grandes-empreendimentos.html)
 - [Comitê Piabanha](https://www.comitepiabanha.org.br/)
