@@ -141,7 +141,7 @@ Contratos de solução inovadora com o poder público (Marco Legal das Startups)
 
 ## Referências
 
-- Repositório aquascan-bmc, arquivo `parceiros-chave.md` (versão anterior, consultada em 16/10/2026).
+- Repositório aquascan-BMC, arquivo `parceiros-chave.md` (versão anterior, consultada em 16/10/2026).
 - Blocos do BMC do AquaScan: Recursos-Chave (seções 3.5, 4 e 5), Estrutura de Custos (seções 3.1 a 3.3 e 5; hipóteses C4, C5 e C17), Relacionamento com Clientes (seções 3 e 4), Concorrentes (Cemaden e INMET).
 - [LNCC: folder institucional 2026 (sede em Petrópolis)](https://www.gov.br/lncc/pt-br/centrais-de-conteudo/divulgacao-cientifica/folder-institucional-2026-pt.pdf)
 - [Correio da Manhã: Comitê Piabanha e o licenciamento em Petrópolis (jul/2026)](https://www.correiodamanha.com.br/serrano/2026/07/299293-comite-piabanha-volta-a-pedir-suspensao-do-licenciamento-de-grandes-empreendimentos.html)

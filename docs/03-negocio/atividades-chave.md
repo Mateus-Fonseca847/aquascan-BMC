@@ -184,6 +184,6 @@ As atividades se concentram em torno do período de chuva:
 
 ## Referências
 
-- Repositório aquascan-bmc, arquivo `atividades-chave.md` (versão anterior, consultada em 16/10/2026).
+- Repositório aquascan-BMC, arquivo `atividades-chave.md` (versão anterior, consultada em 16/10/2026).
 - Repositório aquascan-app (consultado em 16/10/2026): `README.md` (stack e fluxo de dados), `docs/requisitos.md`, `docs/privacidade.md`.
 - Blocos do BMC do AquaScan: Recursos-Chave (seções 3 a 5), Relacionamento com Clientes (seções 3, 4 e 6), Canais (seções 3 e 5), Parcerias-Chave (seções 3 a 5), Estrutura de Custos (seções 3.2 e 3.4; hipótese C7).

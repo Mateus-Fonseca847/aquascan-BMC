@@ -54,9 +54,9 @@ O histórico de marcos está no [CHANGELOG.md](CHANGELOG.md) e o dia a dia da eq
 
 | Repositório | Conteúdo | Situação |
 |---|---|---|
-| **aquascan-supernova** (este) | Documentação, negócio, diário de bordo e evento | Ativo |
+| [**aquascan-BMC**](https://github.com/Mateus-Fonseca847/aquascan-BMC) (este) | Documentação, negócio, diário de bordo e evento | Ativo |
 | [Monitoramento-Fluxo-de-Água-ESP32](https://github.com/Tidxlz/Monitoramento-Fluxo-de--gua-ESP32) | Firmware do ESP32, simulação no Wokwi, calibração | Ativo |
-| aquascan-app | API (Node.js), banco (PostgreSQL) e aplicativo (React Native) | A criar |
+| [aquascan-app](https://github.com/Mateus-Fonseca847/aquascan-app) | API (Node.js), banco (PostgreSQL) e aplicativo (React Native) | Ativo |
 
 A divisão em três repositórios está explicada na [decisão 003](docs/decisoes/003-estrutura-dos-repositorios.md).
 

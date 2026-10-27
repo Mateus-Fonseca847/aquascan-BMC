@@ -235,6 +235,6 @@ A contratação por órgãos públicos e empresas é um modelo comercial a valid
 
 ## Referências
 
-- Repositório aquascan-bmc, arquivo `canais-de-venda.md` (versão anterior, consultada em 16/10/2026).
+- Repositório aquascan-BMC, arquivo `canais-de-venda.md` (versão anterior, consultada em 16/10/2026).
 - Blocos do BMC do AquaScan: Segmento de Mercado (seções 3.1 e 3.2), Fonte de Renda e Lucro (seção 4; hipóteses R1 e R5), Relacionamento com Clientes (seções 3 e 4), Parcerias-Chave (seções 3 e 4), Estrutura de Custos (seção 3.5; hipóteses C14 e C15).
 - Repositório aquascan-app (consultado em 16/10/2026): `docs/requisitos.md` (modo visitante, mapa, notificações) e `docs/privacidade.md`.

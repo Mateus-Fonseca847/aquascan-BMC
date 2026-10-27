@@ -1,6 +1,6 @@
 # Aplicativo
 
-> Resumo da stack e das telas. O código ficará no repositório **aquascan-app** (a criar). As justificativas de cada escolha estão na [decisão 001](../decisoes/001-stack-do-aplicativo.md).
+> Resumo da stack e das telas. O código ficará no repositório [**aquascan-app**](https://github.com/Mateus-Fonseca847/aquascan-app). As justificativas de cada escolha estão na [decisão 001](../decisoes/001-stack-do-aplicativo.md).
 
 ## Stack
 
