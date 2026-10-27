@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O AcquaScan é um sistema de monitoramento de rios que mede o nível da água com sensores de baixo custo e comunica o risco de transbordamento em porcentagem, cor e texto, com tempo estimado, por meio de um aplicativo. Este documento descreve o primeiro bloco do Business Model Canvas, o **Segmento de Mercado**: para quem o AcquaScan cria valor.
+O AquaScan é um sistema de monitoramento de rios que mede o nível da água com sensores de baixo custo e comunica o risco de transbordamento em porcentagem, cor e texto, com tempo estimado, por meio de um aplicativo. Este documento descreve o primeiro bloco do Business Model Canvas, o **Segmento de Mercado**: para quem o AquaScan cria valor.
 
 Ao longo do texto são apresentados quem compra a solução (Defesas Civis, Prefeituras e empresas que dependem de rios), quem a utiliza no dia a dia (moradores, pessoas com rotina perto de rios e equipes de Defesa Civil), o perfil de cada grupo (agrupamento, localização, necessidades e comportamentos), os segmentos fora do foco, a abrangência geográfica e as hipóteses que ainda precisam ser validadas. Os demais blocos do canvas devem ser coerentes com o que está descrito aqui.
 
@@ -43,7 +43,7 @@ O usuário final não paga: informação de segurança em enchentes deve ser gra
 ### 3.1 Principal: Defesa Civil municipal e Prefeitura
 
 - **Perfil:** município com rios urbanos e histórico de enchentes. Ponto de partida: Petrópolis (RJ).
-- **Como adquire:** contrata o AcquaScan; a instalação é conjunta (o órgão indica os pontos, a equipe do AcquaScan instala e calibra); os sensores enviam dados a uma API que calcula as métricas e as grava em banco; a população acessa pelo aplicativo e a Defesa Civil, pelo painel. O órgão também fornece o relatório de pontos de apoio, que o AcquaScan integra ao mapa.
+- **Como adquire:** contrata o AquaScan; a instalação é conjunta (o órgão indica os pontos, a equipe do AquaScan instala e calibra); os sensores enviam dados a uma API que calcula as métricas e as grava em banco; a população acessa pelo aplicativo e a Defesa Civil, pelo painel. O órgão também fornece o relatório de pontos de apoio, que o AquaScan integra ao mapa.
 - **Dor (hipótese):** poucos pontos de medição por rio e dificuldade de transformar dado técnico em informação que o morador use para decidir.
 - **Recursos:** existe verba pública para prevenção e resposta a desastres (**vivência**); programas e valores serão levantados junto ao órgão (**hipótese**).
 - **Preço de entrada:** contratações de menor valor podem ser feitas por dispensa de licitação. Em 2026 o limite é de **R$ 65.492,11** para compras e outros serviços e de **R$ 130.984,20** para obras e serviços de engenharia (Decreto 12.807/2025, **verificado** em fonte secundária; decreto federal, aplicação ao município a confirmar). A solução de entrada deve caber nessa faixa, sem excluir contratos maiores nem contratações emergenciais. O prazo médio de contratação não foi levantado.
@@ -82,7 +82,7 @@ Pousadas, cachoeiras, parques e operadores de aventura. A dor é a segurança do
 | **Agrupamento** | Por bairro e rua ao longo do mesmo rio | Por local de trabalho, estudo ou serviços | Por órgão municipal |
 | **Localização** | Áreas de risco e margens; em Petrópolis há rios em praticamente toda a cidade (**vivência**) | Áreas centrais e comerciais cortadas por rios (**vivência**) | Sede do órgão |
 | **Necessidade** | Saber a tempo se o rio sobe e quanto tempo resta para agir; proteger a casa e saber para onde ir se precisar sair (**vivência**) | Decidir quando sair e por onde voltar quando chove, longe de casa (**vivência**) | Acompanhar estações e apoiar decisão de alerta (**hipótese**) |
-| **Comportamento** | Observam chuva e rio e seguem avisos oficiais; usam smartphone (**hipótese**) | Consultam o celular ao longo do dia; precisam de informação curta, em cor e texto (**hipótese**) | Já usam SMS e sirenes (**verificado**); o AcquaScan se soma a esses canais |
+| **Comportamento** | Observam chuva e rio e seguem avisos oficiais; usam smartphone (**hipótese**) | Consultam o celular ao longo do dia; precisam de informação curta, em cor e texto (**hipótese**) | Já usam SMS e sirenes (**verificado**); o AquaScan se soma a esses canais |
 
 **Como usam o aplicativo.** Salvam local de moradia e de trabalho, acompanham o rio de cada local e consultam todos os rios monitorados da cidade em um mapa, com nível, porcentagem do transbordamento, risco (baixo, moderado, alto) em cor e texto e tempo estimado para transbordar. Rio sem estação aparece como "sem monitoramento", nunca como seguro. Quando há contrato com a Defesa Civil, o mapa mostra também os **pontos de apoio** do órgão: ao tocar em um ponto, o usuário vê o telefone e a capacidade máxima de pessoas e pode traçar a rota até ele. Está prevista ainda a **rota** entre dois locais (por exemplo, da rua em que a pessoa está até casa ou trabalho) que evite áreas de risco associadas ao estado dos rios monitorados. A rota é indicativa: o sensor mede um ponto do rio, não a rua, e a informação não substitui a orientação da Defesa Civil.
 

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O AcquaScan é um sistema de monitoramento de rios que mede o nível da água com sensores de baixo custo, instalados em conjunto com o cliente, e comunica o risco de transbordamento em porcentagem, cor e texto, com tempo estimado, por meio de um aplicativo gratuito para a população. Este documento descreve o bloco **Recursos-Chave** do Business Model Canvas: os ativos de que o negócio precisa para entregar a proposta de valor, alcançar os clientes e gerar receita, sejam eles equipamentos, sistemas, pessoas, insumos, dados, autorizações ou dinheiro.
+O AquaScan é um sistema de monitoramento de rios que mede o nível da água com sensores de baixo custo, instalados em conjunto com o cliente, e comunica o risco de transbordamento em porcentagem, cor e texto, com tempo estimado, por meio de um aplicativo gratuito para a população. Este documento descreve o bloco **Recursos-Chave** do Business Model Canvas: os ativos de que o negócio precisa para entregar a proposta de valor, alcançar os clientes e gerar receita, sejam eles equipamentos, sistemas, pessoas, insumos, dados, autorizações ou dinheiro.
 
 Ao longo do texto são apresentados os recursos por categoria, o que já existe e o que está planejado, uma seção dedicada às **peças do protótipo e seus equivalentes em um rio real**, as dependências e os riscos de indisponibilidade e as hipóteses que ainda precisam ser validadas. As atividades que usam esses recursos ficam no bloco Atividades-Chave; os parceiros que os fornecem, em Parcerias-Chave; os valores, em Estrutura de Custos. **Este bloco distingue o que já existe do que está planejado**: o projeto está em fase de protótipo, e nenhuma estação opera em rio real.
 
@@ -124,7 +124,7 @@ Este mapa substitui a associação "estação mais próxima do rio", que fica co
 
 **Base geográfica.** Mapa dos rios e das estações, ruas importadas do OpenStreetMap para o PostGIS e associadas provisoriamente à estação mais próxima do rio, mais o cadastro de pontos de apoio, que já tem nome, endereço, capacidade, contato e coordenadas, mas ainda não registra a data e a fonte da última atualização (**verificado** no código; a pesquisa por rua responde "não implementado" na v0.1.0 e os dados de apoio atuais são fictícios). A associação por proximidade pode errar em encostas e cruzamentos e deve ser validada. Os dados do OpenStreetMap exigem atribuição conforme a licença ODbL.
 
-**Mapa interativo, pontos de apoio e rotas.** O aplicativo tem um mapa exclusivo da cidade. Com contrato da Defesa Civil, o mapa mostra os **pontos de apoio** do órgão: ao tocar em um ponto, o usuário vê o telefone e a capacidade máxima de pessoas e pode traçar a rota até ele. O AcquaScan integra ao banco o relatório de pontos de apoio fornecido pelo órgão (a API já tem o cadastro, hoje com dados fictícios). A capacidade informada é a **máxima**, não a vaga disponível, e a lista só vale se o órgão a mantiver atualizada.
+**Mapa interativo, pontos de apoio e rotas.** O aplicativo tem um mapa exclusivo da cidade. Com contrato da Defesa Civil, o mapa mostra os **pontos de apoio** do órgão: ao tocar em um ponto, o usuário vê o telefone e a capacidade máxima de pessoas e pode traçar a rota até ele. O AquaScan integra ao banco o relatório de pontos de apoio fornecido pelo órgão (a API já tem o cadastro, hoje com dados fictícios). A capacidade informada é a **máxima**, não a vaga disponível, e a lista só vale se o órgão a mantiver atualizada.
 
 Para a **rota que evita áreas de risco**, há três pontos de atenção:
 
@@ -134,7 +134,7 @@ Para a **rota que evita áreas de risco**, há três pontos de atenção:
 
 **Histórico próprio de leituras e eventos.** Cresce com a operação. Serve para calibrar limiares e demonstrar desempenho. Uma série curta não sustenta modelos estatísticos mais complexos (relatório do sensor).
 
-**Marca AcquaScan.** Não consta registro no INPI (**hipótese** de registro). A grafia "AcquaScan" e "AQUASCAN" aparece nos materiais e deve ser padronizada antes de qualquer registro.
+**Marca AquaScan.** Não consta registro no INPI (**hipótese** de registro). A grafia "AquaScan" e "AQUASCAN" aparece nos materiais e deve ser padronizada antes de qualquer registro.
 
 ### 3.3 Humanos
 
@@ -211,7 +211,7 @@ O YF-S201 mede a água que passa dentro de um cano e não serve para rio aberto.
 - **Radar de velocidade superficial:** em testes do USGS (rios dos Estados Unidos), ficou em torno de 5% de diferença da vazão de referência depois do ajuste. A velocidade média foi cerca de 0,85 da velocidade da superfície, valor que precisa ser confirmado em cada local.
 - **ADCP (perfilador acústico):** indicado pelo relatório para rio aberto, de custo bem maior.
 
-**Decisão:** o alerta do AcquaScan se baseia no **nível** em relação à cota de transbordamento. A vazão em rio aberto fica fora da oferta inicial.
+**Decisão:** o alerta do AquaScan se baseia no **nível** em relação à cota de transbordamento. A vazão em rio aberto fica fora da oferta inicial.
 
 ### 4.4 Energia e comunicação
 
@@ -259,7 +259,7 @@ O YF-S201 mede a água que passa dentro de um cano e não serve para rio aberto.
 ## Referências
 
 - [Repositório do firmware: Monitoramento de Fluxo de Água ESP32](https://github.com/CaiqueRV/Monitoramento-Fluxo-de-Agua-ESP32) (lista de materiais, análise de cálculos, registro de validação e README)
-- [Repositório do aplicativo e da API: acquascan-app](https://github.com/Mateus-Fonseca847/acquascan-app)
+- [Repositório do aplicativo e da API: aquascan-app](https://github.com/Mateus-Fonseca847/aquascan-app)
 - Relatório técnico do sensor de monitoramento hidrológico (arquivo do projeto), seções 8 a 10
 - [Datasheet do JSN-SR04T 2.0](https://www.mikrocontroller.net/attachment/541933/JSN-SR04T-2.0.pdf)
 - [Makers Electronics: SR04M-2, especificações do fornecedor](https://makerselectronics.com/product/sr04m-2-waterproof-ultrasonic-distan/)

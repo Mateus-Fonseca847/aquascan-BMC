@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O AcquaScan chega a dois públicos por caminhos diferentes. O **órgão público** (Defesa Civil e Prefeitura) é alcançado por contato direto, demonstração e piloto, e compra o sistema; a **população** é alcançada por meio do próprio órgão, das placas nas estações e da loja de aplicativos, e usa o serviço de graça. Este documento descreve o terceiro bloco do Business Model Canvas, os **Canais**: como o AcquaScan é conhecido, avaliado, contratado, entregue e acompanhado por cada cliente.
+O AquaScan chega a dois públicos por caminhos diferentes. O **órgão público** (Defesa Civil e Prefeitura) é alcançado por contato direto, demonstração e piloto, e compra o sistema; a **população** é alcançada por meio do próprio órgão, das placas nas estações e da loja de aplicativos, e usa o serviço de graça. Este documento descreve o terceiro bloco do Business Model Canvas, os **Canais**: como o AquaScan é conhecido, avaliado, contratado, entregue e acompanhado por cada cliente.
 
 O bloco deixa explícito que **vender para empresas é um trabalho diferente e mais difícil que vender para órgãos públicos**, e que o próprio órgão público, em uso, é um canal de venda para as empresas. O texto trata só desse tema. Quem são os clientes está em Segmento de Mercado; o que acontece depois da entrega, em Relacionamento com Clientes; preços e formas de contratação, em Fonte de Renda e Lucro; as entidades que ajudam a abrir portas, em Parcerias-Chave; os valores de cada canal, em Estrutura de Custos.
 
@@ -33,7 +33,7 @@ Os canais seguem as cinco fases da relação com o cliente.
 | Por onde os clientes querem ser alcançados? | O órgão público, por reunião, ofício e demonstração, como em toda contratação pública (**hipótese**). A população, pelo celular e por quem ela já confia: a Defesa Civil, a escola e a associação de moradores (**vivência**) |
 | Como os alcançamos hoje? | Contato direto com a Defesa Civil e a Prefeitura de Petrópolis e apresentação na Supernova. Os demais canais são planejados |
 | Quais canais funcionam melhor? | Ainda não medido. A hipótese é que a **demonstração com piloto** converta mais para o órgão e que a **divulgação do próprio órgão** converta mais para a população (seção 9) |
-| Quais têm melhor relação custo-benefício? | Os canais de divulgação feitos pelo órgão e pelos parceiros, que não geram custo de mídia para o AcquaScan na fase inicial (Estrutura de Custos, seção 3.5) |
+| Quais têm melhor relação custo-benefício? | Os canais de divulgação feitos pelo órgão e pelos parceiros, que não geram custo de mídia para o AquaScan na fase inicial (Estrutura de Custos, seção 3.5) |
 | Como se integram à rotina do cliente? | O órgão recebe aplicativo, painel e relatórios no fluxo da Defesa Civil; o morador recebe o alerta no celular, sem tarefa nova |
 
 ---
@@ -51,14 +51,14 @@ Os canais seguem as cinco fases da relação com o cliente.
 | Avaliação | Piloto em Petrópolis | Instalação de estações em pontos indicados pelo órgão, sob termo de cooperação, com validação dos limiares | Direto |
 | Avaliação | Relatório técnico | Resultado do piloto: leituras recebidas, alertas, calibração e custo por estação | Direto |
 | Compra | Proposta e contratação | Proposta formal; cabe na dispensa de licitação se o pacote ficar dentro do limite, ou entra em licitação ou contrato de solução inovadora acima dele (Fonte de Renda e Lucro, seção 4) | Direto |
-| Entrega | Instalação conjunta | O órgão indica os pontos; a equipe do AcquaScan instala, calibra e treina os usuários do painel | Direto |
+| Entrega | Instalação conjunta | O órgão indica os pontos; a equipe do AquaScan instala, calibra e treina os usuários do painel | Direto |
 | Entrega | Aplicativo e painel | Disponíveis ao morador e à Defesa Civil, com pontos de apoio fornecidos pelo órgão | Próprio |
 | Pós-venda | Reuniões e relatórios | Conforme Relacionamento com Clientes, seção 3 | Direto |
 
 **Pontos críticos:**
 - **O piloto é o canal que transforma interesse em contrato.** O órgão contrata mais fácil o que viu funcionando em seu rio. A parceria institucional do piloto é a primeira etapa de venda (Parcerias-Chave, seção 3).
 - **O contrato público tem rito próprio.** Dentro do limite de dispensa, a entrada é uma proposta direta ao órgão; acima do limite, o canal passa a ser o edital. Quem acompanha os avisos de contratação do município precisa ser definido (a confirmar com o setor de compras).
-- **A primeira Defesa Civil contratante é o principal canal de venda seguinte.** O contrato deve prever que o AcquaScan possa citar o município como caso de uso (Relacionamento com Clientes, seção 3).
+- **A primeira Defesa Civil contratante é o principal canal de venda seguinte.** O contrato deve prever que o AquaScan possa citar o município como caso de uso (Relacionamento com Clientes, seção 3).
 
 ### 3.2 Funil de vendas: órgãos públicos
 
@@ -88,7 +88,7 @@ Os canais seguem as cinco fases da relação com o cliente.
 | Entrega | Aplicativo e notificações | Mapa, estado dos rios em cor, porcentagem e texto, previsão, pontos de apoio e alertas | Próprio |
 | Pós-venda | Alertas, educação e canal de retorno | Conforme Relacionamento com Clientes, seção 4 | Próprio |
 
-**Ponto crítico:** o canal de maior alcance, a divulgação do órgão, não é controlado pelo AcquaScan. Por isso entra em cláusula contratual (Estrutura de Custos, hipótese C15). O morador também precisa confiar no aviso para manter o aplicativo, o que liga este canal ao sistema contra alarme falso (Relacionamento com Clientes, seção 4).
+**Ponto crítico:** o canal de maior alcance, a divulgação do órgão, não é controlado pelo AquaScan. Por isso entra em cláusula contratual (Estrutura de Custos, hipótese C15). O morador também precisa confiar no aviso para manter o aplicativo, o que liga este canal ao sistema contra alarme falso (Relacionamento com Clientes, seção 4).
 
 ---
 
@@ -114,7 +114,7 @@ Essa comparação é **hipótese** (confiança média), apoiada no funcionamento
 
 | Elemento | O que é |
 |---|---|
-| Responsável comercial | Um integrante do AcquaScan dedicado a essa frente, com metas e rotina de prospecção |
+| Responsável comercial | Um integrante do AquaScan dedicado a essa frente, com metas e rotina de prospecção |
 | Mapa de contas | Lista de empresas com ativo em margem de rio, por bacia e setor (agronegócio, geração de energia, saneamento, indústria, comércio e condomínios), com critério de prioridade |
 | Qualificação | Perguntas padrão: o ativo está exposto, já sofreu dano, quem decide, há orçamento, qual o prazo |
 | Prospecção ativa | Abordagem direta em sequência (contato, retorno, reunião), em vez de esperar demanda |
@@ -157,14 +157,14 @@ Mesmo com premissas favoráveis, a venda a empresas exige da ordem de **sete vez
 
 ## 6. O órgão público como canal de venda para empresas
 
-Uma empresa que vê a Defesa Civil usando o AcquaScan tem uma **validação** que nenhum material de venda entrega: o sistema foi aceito por quem tem a responsabilidade pública de proteger a cidade. O órgão em uso é o principal canal de entrada para o segmento de empresas, e deve ser planejado como tal.
+Uma empresa que vê a Defesa Civil usando o AquaScan tem uma **validação** que nenhum material de venda entrega: o sistema foi aceito por quem tem a responsabilidade pública de proteger a cidade. O órgão em uso é o principal canal de entrada para o segmento de empresas, e deve ser planejado como tal.
 
 | Mecanismo | Como funciona |
 |---|---|
 | Prova social | A empresa conhece o uso pelo órgão e passa a considerar o sistema confiável |
-| Atestado de capacidade técnica | Declaração do órgão de que o AcquaScan executou o serviço, documento comum em contratações; é a prova mais forte nas conversas comerciais |
+| Atestado de capacidade técnica | Declaração do órgão de que o AquaScan executou o serviço, documento comum em contratações; é a prova mais forte nas conversas comerciais |
 | Caso de uso autorizado | Relatório do piloto e do primeiro ano, com dados aprovados pelo órgão, apresentado às empresas |
-| Visibilidade do serviço | Empresas da bacia veem o aplicativo e o estado dos rios, divulgados pelo órgão e gratuitos à população, e conhecem o AcquaScan pelo crédito "tecnologia AcquaScan" |
+| Visibilidade do serviço | Empresas da bacia veem o aplicativo e o estado dos rios, divulgados pelo órgão e gratuitos à população, e conhecem o AquaScan pelo crédito "tecnologia AquaScan" |
 | Estação complementar | A empresa instala uma estação no seu ativo e a leitura reforça a rede da Defesa Civil, com o relacionamento conduzido em conjunto (Relacionamento com Clientes, seção 5) |
 
 **Limites:**
@@ -199,7 +199,7 @@ A contratação por órgãos públicos e empresas é um modelo comercial a valid
 | Entrega (população) | Usuários cadastrados e usuários com notificação ligada, em relação à população da área coberta |
 | Funil de empresas | Contas mapeadas, qualificadas, demonstrações, propostas e contratos; taxa de passagem entre etapas; custo de venda por contrato |
 | Efeito do órgão como canal | Empresas que citam o uso pelo órgão como motivo de interesse; atestados e casos de uso emitidos |
-| Custo | Custo de aquisição de cliente institucional e custo por instalação do aplicativo, quando o AcquaScan voltar a pagar mídia (Estrutura de Custos, C14) |
+| Custo | Custo de aquisição de cliente institucional e custo por instalação do aplicativo, quando o AquaScan voltar a pagar mídia (Estrutura de Custos, C14) |
 
 ---
 
@@ -235,6 +235,6 @@ A contratação por órgãos públicos e empresas é um modelo comercial a valid
 
 ## Referências
 
-- Repositório acquascan-bmc, arquivo `canais-de-venda.md` (versão anterior, consultada em 16/10/2026).
-- Blocos do BMC do AcquaScan: Segmento de Mercado (seções 3.1 e 3.2), Fonte de Renda e Lucro (seção 4; hipóteses R1 e R5), Relacionamento com Clientes (seções 3 e 4), Parcerias-Chave (seções 3 e 4), Estrutura de Custos (seção 3.5; hipóteses C14 e C15).
-- Repositório acquascan-app (consultado em 16/10/2026): `docs/requisitos.md` (modo visitante, mapa, notificações) e `docs/privacidade.md`.
+- Repositório aquascan-BMC, arquivo `canais-de-venda.md` (versão anterior, consultada em 16/10/2026).
+- Blocos do BMC do AquaScan: Segmento de Mercado (seções 3.1 e 3.2), Fonte de Renda e Lucro (seção 4; hipóteses R1 e R5), Relacionamento com Clientes (seções 3 e 4), Parcerias-Chave (seções 3 e 4), Estrutura de Custos (seção 3.5; hipóteses C14 e C15).
+- Repositório aquascan-app (consultado em 16/10/2026): `docs/requisitos.md` (modo visitante, mapa, notificações) e `docs/privacidade.md`.

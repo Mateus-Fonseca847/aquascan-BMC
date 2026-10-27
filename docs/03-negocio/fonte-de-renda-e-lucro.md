@@ -2,9 +2,9 @@
 
 ## Introdução
 
-O AcquaScan é um sistema de monitoramento de rios que mede o nível da água com sensores de baixo custo, instalados em conjunto com o cliente, e comunica o risco de transbordamento em porcentagem, cor e texto, com tempo estimado, por meio de um aplicativo gratuito para a população. Este documento descreve o bloco **Fonte de Renda e Lucro** do Business Model Canvas: quem paga, pelo quê, de que forma e com que previsibilidade o dinheiro entra, e como a receita se relaciona com o lucro.
+O AquaScan é um sistema de monitoramento de rios que mede o nível da água com sensores de baixo custo, instalados em conjunto com o cliente, e comunica o risco de transbordamento em porcentagem, cor e texto, com tempo estimado, por meio de um aplicativo gratuito para a população. Este documento descreve o bloco **Fonte de Renda e Lucro** do Business Model Canvas: quem paga, pelo quê, de que forma e com que previsibilidade o dinheiro entra, e como a receita se relaciona com o lucro.
 
-Ao longo do texto são apresentadas as fontes de renda por segmento, a lógica de preço e de contratação pública, a relação entre receita e lucro e as hipóteses que ainda precisam ser validadas. Os custos detalhados ficam no bloco Estrutura de Custos; os segmentos de clientes, no bloco Segmento de Mercado. **Ainda não há preços definidos nem disposição de pagar validada**; os valores citados são referências de mercado ou limites legais, não o preço do AcquaScan.
+Ao longo do texto são apresentadas as fontes de renda por segmento, a lógica de preço e de contratação pública, a relação entre receita e lucro e as hipóteses que ainda precisam ser validadas. Os custos detalhados ficam no bloco Estrutura de Custos; os segmentos de clientes, no bloco Segmento de Mercado. **Ainda não há preços definidos nem disposição de pagar validada**; os valores citados são referências de mercado ou limites legais, não o preço do AquaScan.
 
 **Legenda das evidências:** **Verificado** (fonte pública em Referências) · **Vivência** (observação dos integrantes, moradores de Petrópolis, RJ) · **Pesquisa** (levantamento dos integrantes, fontes a anexar) · **Hipótese** (a validar, ver seção 6).
 
@@ -49,7 +49,7 @@ Ao longo do texto são apresentadas as fontes de renda por segmento, a lógica d
 - **Quem paga:** o mesmo órgão contratante.
 - **Forma:** contrato anual (**hipótese**).
 - **Pontos de apoio:** a lista vem do relatório do próprio órgão e só tem valor se for mantida atualizada; combinar a atualização em contrato. O custo recorrente do provedor de mapas entra em Estrutura de Custos.
-- **Por que importa:** é a fonte recorrente. Sem ela, a receita fica concentrada na venda inicial, e o custo de manter plataforma e estações recai sobre o AcquaScan.
+- **Por que importa:** é a fonte recorrente. Sem ela, a receita fica concentrada na venda inicial, e o custo de manter plataforma e estações recai sobre o AquaScan.
 - **Atenção:** a manutenção e o suporte são o que sustenta a receita mesmo que o código do projeto seja público. O valor do serviço está na instalação, na calibração, na operação e na garantia, e não apenas no software.
 
 ### 3.3 Estação dedicada para empresas (setor privado, hipótese e pesquisa)
@@ -83,7 +83,7 @@ Ao longo do texto são apresentadas as fontes de renda por segmento, a lógica d
 | E-Noé (USP) | Cerca de R$ 15 mil por conjunto |
 | Radar de nível, Joinville | Cerca de R$ 138 mil |
 
-**Quantas estações cabem na dispensa (aritmética ilustrativa, não é preço do AcquaScan).** Se o preço total por estação instalada fosse de R$ 5 mil, cabem 13 estações no limite de R$ 65.492,11; a R$ 10 mil, cabem 6; a R$ 15 mil, cabem 4. O custo real da estação e o preço serão definidos pelo bloco Estrutura de Custos.
+**Quantas estações cabem na dispensa (aritmética ilustrativa, não é preço do AquaScan).** Se o preço total por estação instalada fosse de R$ 5 mil, cabem 13 estações no limite de R$ 65.492,11; a R$ 10 mil, cabem 6; a R$ 15 mil, cabem 4. O custo real da estação e o preço serão definidos pelo bloco Estrutura de Custos.
 
 **Base do preço (hipótese).** O valor entregue é a ampliação de cobertura e a antecipação do aviso. O preço deve ficar abaixo das alternativas conhecidas e acima do custo total de implantação e operação. O custo de instalação em campo e o de manutenção das estações entram no cálculo.
 
@@ -91,7 +91,7 @@ Ao longo do texto são apresentadas as fontes de renda por segmento, a lógica d
 
 ## 5. Receita e lucro
 
-**Receita** é tudo o que entra com as fontes acima; **lucro** é o que sobra depois de custos de fabricação, instalação, operação e impostos. Vender muito não significa lucrar: no AcquaScan, o custo de estar em campo (instalação, manutenção, deslocamento) pode consumir a margem de contratos de valor baixo.
+**Receita** é tudo o que entra com as fontes acima; **lucro** é o que sobra depois de custos de fabricação, instalação, operação e impostos. Vender muito não significa lucrar: no AquaScan, o custo de estar em campo (instalação, manutenção, deslocamento) pode consumir a margem de contratos de valor baixo.
 
 - **Margem por estação:** só pode ser estimada depois que o bloco Estrutura de Custos fechar o custo por estação instalada.
 - **Meta de margem bruta (hipótese):** a definição fica pendente. O critério de "superior a 50%" não tem benchmark; deve ser tratado como meta de partida até haver custos e preços.

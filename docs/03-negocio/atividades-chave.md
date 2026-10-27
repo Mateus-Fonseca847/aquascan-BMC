@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O AcquaScan só entrega sua proposta de valor, o aviso confiável do nível do rio em cor, porcentagem e texto, se um conjunto de atividades funcionar de ponta a ponta: da leitura do sensor até o alerta no celular, e da venda ao órgão até a manutenção da estação no rio. Este documento descreve o bloco **Atividades-Chave** do Business Model Canvas: o que o AcquaScan precisa fazer, com que frequência e quem executa, para entregar o valor aos clientes.
+O AquaScan só entrega sua proposta de valor, o aviso confiável do nível do rio em cor, porcentagem e texto, se um conjunto de atividades funcionar de ponta a ponta: da leitura do sensor até o alerta no celular, e da venda ao órgão até a manutenção da estação no rio. Este documento descreve o bloco **Atividades-Chave** do Business Model Canvas: o que o AquaScan precisa fazer, com que frequência e quem executa, para entregar o valor aos clientes.
 
 O texto trata só desse tema. Os recursos que essas atividades usam estão em Recursos-Chave; o que cada atividade exige do cliente e dos parceiros, em Relacionamento com Clientes e Parcerias-Chave; os custos, em Estrutura de Custos.
 
@@ -151,7 +151,7 @@ As atividades se concentram em torno do período de chuva:
 | Atividade | Motivo |
 |---|---|
 | Fabricar sensores ou chips próprios | O modelo usa componentes comerciais de prateleira; o valor está na integração, na calibração e no serviço |
-| Operar sirenes, resgate e salvamento | Competência legal da Defesa Civil e dos bombeiros; o AcquaScan atua no monitoramento e na comunicação antecipada |
+| Operar sirenes, resgate e salvamento | Competência legal da Defesa Civil e dos bombeiros; o AquaScan atua no monitoramento e na comunicação antecipada |
 | Gerar previsão meteorológica própria | O aplicativo usa fonte externa de previsão; o produto mede o nível do rio, que a previsão não substitui |
 | Modelos de inteligência artificial nesta fase | O cálculo é determinístico, com regressão para a tendência; a série de dados ainda é curta para modelos complexos |
 
@@ -184,6 +184,6 @@ As atividades se concentram em torno do período de chuva:
 
 ## Referências
 
-- Repositório acquascan-bmc, arquivo `atividades-chave.md` (versão anterior, consultada em 16/10/2026).
-- Repositório acquascan-app (consultado em 16/10/2026): `README.md` (stack e fluxo de dados), `docs/requisitos.md`, `docs/privacidade.md`.
-- Blocos do BMC do AcquaScan: Recursos-Chave (seções 3 a 5), Relacionamento com Clientes (seções 3, 4 e 6), Canais (seções 3 e 5), Parcerias-Chave (seções 3 a 5), Estrutura de Custos (seções 3.2 e 3.4; hipótese C7).
+- Repositório aquascan-BMC, arquivo `atividades-chave.md` (versão anterior, consultada em 16/10/2026).
+- Repositório aquascan-app (consultado em 16/10/2026): `README.md` (stack e fluxo de dados), `docs/requisitos.md`, `docs/privacidade.md`.
+- Blocos do BMC do AquaScan: Recursos-Chave (seções 3 a 5), Relacionamento com Clientes (seções 3, 4 e 6), Canais (seções 3 e 5), Parcerias-Chave (seções 3 a 5), Estrutura de Custos (seções 3.2 e 3.4; hipótese C7).
