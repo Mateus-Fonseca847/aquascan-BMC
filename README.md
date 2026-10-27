@@ -57,7 +57,7 @@ O histórico de marcos está no [CHANGELOG.md](CHANGELOG.md) e o dia a dia da eq
 | Repositório | Conteúdo | Situação |
 |---|---|---|
 | [**aquascan-BMC**](https://github.com/Mateus-Fonseca847/aquascan-BMC) (este) | Documentação, negócio, diário de bordo e evento | Ativo |
-| [Monitoramento-Fluxo-de-Água-ESP32](https://github.com/CaiqueRV/Monitoramento-Fluxo-de--gua-ESP32) | Firmware do ESP32, simulação no Wokwi, calibração | Ativo |
+| [Monitoramento-Fluxo-de-Água-ESP32](https://github.com/CaiqueRV/Monitoramento-Fluxo-de-Agua-ESP32) | Firmware do ESP32, simulação no Wokwi, calibração | Ativo |
 | [aquascan-app](https://github.com/Mateus-Fonseca847/aquascan-app) | API (Node.js), banco (PostgreSQL) e aplicativo (React Native) | Ativo (v0.1.0) |
 
 A divisão em três repositórios está explicada na [decisão 003](docs/decisoes/003-estrutura-dos-repositorios.md).
@@ -74,7 +74,6 @@ A divisão em três repositórios está explicada na [decisão 003](docs/decisoe
 | [docs/04-tecnico/](docs/04-tecnico) | Resumo do hardware e do aplicativo | Quem quer entender **como** funciona |
 | [docs/05-validacao/](docs/05-validacao) | Testes e resultados de todas as frentes | Quem quer **provas** de que funciona |
 | [docs/decisoes/](docs/decisoes) | Registro de decisões (ADRs) | Quem pergunta "por que vocês escolheram isso?" |
-| [diario-de-bordo/](diario-de-bordo) | Uma entrada por encontro da equipe | Quem quer ver o **processo** |
 | [evento/](evento) | Pitch, banner, roteiro da demonstração e FAQ da banca | A equipe, na preparação para a Supernova |
 | [midia/](midia) | Identidade visual, fotos e vídeos | Quem produz o material visual |
 
