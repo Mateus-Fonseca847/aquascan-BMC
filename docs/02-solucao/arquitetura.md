@@ -38,7 +38,7 @@ flowchart LR
 
 | Componente | Responsabilidade | Onde está o código |
 |---|---|---|
-| Estação | Medir nível e vazão e enviar as leituras a cada minuto | [Repositório do firmware](https://github.com/Tidxlz/Monitoramento-Fluxo-de--gua-ESP32) |
+| Estação | Medir nível e vazão e enviar as leituras a cada minuto | [Repositório do firmware](https://github.com/CaiqueRV/Monitoramento-Fluxo-de--gua-ESP32) |
 | API | Receber leituras, calcular estado, enviar alertas, servir o app | [aquascan-app](https://github.com/Mateus-Fonseca847/aquascan-app) |
 | Banco | Guardar estações, leituras, ruas, pontos de apoio e usuários | [aquascan-app](https://github.com/Mateus-Fonseca847/aquascan-app) |
 | App | Mapa, pesquisa por rua, previsão, pontos de apoio e notificações | [aquascan-app](https://github.com/Mateus-Fonseca847/aquascan-app) |

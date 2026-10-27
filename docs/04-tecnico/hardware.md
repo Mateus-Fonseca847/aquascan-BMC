@@ -1,6 +1,6 @@
 # Hardware e firmware
 
-> Resumo para a banca e para quem não é da área técnica. A documentação completa, o código e a simulação estão no [repositório do firmware](https://github.com/Tidxlz/Monitoramento-Fluxo-de--gua-ESP32).
+> Resumo para a banca e para quem não é da área técnica. A documentação completa, o código e a simulação estão no [repositório do firmware](https://github.com/CaiqueRV/Monitoramento-Fluxo-de--gua-ESP32).
 
 ## O que já funciona
 
