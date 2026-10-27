@@ -41,7 +41,7 @@ Visão geral das funcionalidades: [docs/02-solucao/visao-geral.md](docs/02-soluc
 | Firmware de vazão (v0.1.0) | Em validação | Compilação e simulação aprovadas; falta validar toda a faixa de vazão |
 | Sensor de nível | A fazer | Pré-requisito para exibir o nível do rio em % ([decisão 002](docs/decisoes/002-sensor-de-nivel.md)) |
 | Envio de dados via Wi-Fi | A fazer | Previsto na v0.6.0 do firmware |
-| Aplicativo | Stack definida | Repositório a criar ([decisão 001](docs/decisoes/001-stack-do-aplicativo.md)) |
+| Aplicativo | Stack definida | Repositório [aquascan-app](https://github.com/Mateus-Fonseca847/aquascan-app) ([decisão 001](docs/decisoes/001-stack-do-aplicativo.md)) |
 | Pesquisa com usuários | A fazer | Roteiro pronto em [pesquisa-usuarios.md](docs/01-problema/pesquisa-usuarios.md) |
 | Modelo de negócio | Rascunho | [business-model-canvas.md](docs/03-negocio/business-model-canvas.md) |
 | Material do evento | A fazer | [evento/](evento/) |
