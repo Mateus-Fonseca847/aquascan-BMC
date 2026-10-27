@@ -16,7 +16,7 @@ Registro consolidado dos testes de **todas as frentes** do projeto. Cada frente 
 
 ## Firmware
 
-Detalhes completos em [docs/validacao.md do firmware](https://github.com/Tidxlz/Monitoramento-Fluxo-de--gua-ESP32/blob/main/docs/validacao.md).
+Detalhes completos em [docs/validacao.md do firmware](https://github.com/CaiqueRV/Monitoramento-Fluxo-de--gua-ESP32/blob/main/docs/validacao.md).
 
 **Compilação (30/09/2026):** aprovada em 15,86 s. O firmware usa 6,9% da RAM e 24,1% da Flash, deixando espaço para o sensor de nível e o Wi-Fi.
 
@@ -37,6 +37,3 @@ Dois problemas foram encontrados e corrigidos durante o teste: a quebra de linha
 
 [PREENCHER]
 
-## Pesquisa com usuários
-
-[PREENCHER] Resumo das conclusões de [pesquisa-usuarios.md](../01-problema/pesquisa-usuarios.md).
